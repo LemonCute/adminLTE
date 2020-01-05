@@ -1,0 +1,30 @@
+- 项目基于 adminLte 
+- 自己将公共的引入和元素做了抽取，引入了<include标签
+- 目前支持插件有
+## 插件列表
+-   -- Bootstrap 3.3.6 --
+-   -- Font Awesome --
+-   -- Ionicons --
+-   -- iCheck --
+-   -- Morris chart --
+-   -- jvectormap --
+-   -- Date Picker --
+-   -- Daterange picker --
+-   -- Bootstrap time Picker --
+-   --<link rel="stylesheet" href="../../../plugins/timepicker/bootstrap-timepicker.min.css"--
+-   -- bootstrap wysihtml5 - text editor --
+-   --数据表格--
+-   -- 表格树 --
+-   -- select2 --
+-   -- Bootstrap Color Picker --
+-   -- bootstrap wysihtml5 - text editor --
+-   --bootstrap-markdown--
+-   -- Theme style --
+-   -- AdminLTE Skins. Choose a skin from the css/skins
+-    folder instead of downloading all of them to reduce the load. --
+-   -- Ion Slider --
+-   -- ion slider Nice --
+-   -- bootstrap slider --
+-   -- bootstrap-datetimepicker --
+### 新增
+-   -- distpicker --
